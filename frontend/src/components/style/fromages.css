@@ -21,10 +21,9 @@
 .carte {
   width: 37vh;
   height: 45vh;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin: 0 auto 30%;
   transition: transform 1s;
-  margin-bottom: 30%;
+
   transform-style: preserve-3d;
   position: relative;
 }
